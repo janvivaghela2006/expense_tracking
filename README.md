@@ -1,3 +1,4 @@
+ HEAD
 # Expense Tracker MERN
 
 A full-stack expense tracking system with:
@@ -39,3 +40,7 @@ VITE_API_BASE_URL=http://localhost:5000/api
 - Password reset uses email if SMTP variables are configured.
 - Without SMTP credentials, the reset link is logged in the backend console for development use.
 - The dashboard shows existing transactions immediately and updates after each new income/expense entry.
+
+# expense_tracking
+MERN Expense Tracker
+ 1b96a221d951e1f70011dad0efa2c5f8f6864e69
